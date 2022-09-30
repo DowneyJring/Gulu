@@ -4,8 +4,8 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "Gulu",
-  description: 'vdoing博客主题模板',
+  title: "咕噜靖",
+  description: '咕噜靖的笔记',
   base: '/Gulu/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
@@ -13,5 +13,5 @@ module.exports = {
 
   head,
   plugins,
-  themeConfig,
+  themeConfig
 }
