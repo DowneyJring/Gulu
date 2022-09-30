@@ -4,9 +4,9 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "Gulu",
+  title: "rubyjag527.github.io",
   description: 'vdoing博客主题模板',
-  base: '/Gulu/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/rubyjag527.github.io/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
@@ -24,7 +24,7 @@ module.exports = {
         clientId: "f2182596f7e1bf853d43",
         clientSecret: "ff8a750e85ef45edc4432784b1a3ed552ec97c11",
         owner: "RubyJag527",
-        repo: "Gulu",
+        repo: "rubyjag527.github.io",
       },
     ],
   ],
