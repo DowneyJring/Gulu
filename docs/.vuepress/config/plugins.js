@@ -29,9 +29,9 @@ module.exports = [
       needComments: true,
       // 其他的 Vssue 配置
       autoCreateIssue: true,
-      clientId: "adb9fb0ac1159e00ce7f",
-      clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-      owner: "eryajf",
+      clientId: "f2182596f7e1bf853d43",
+      clientSecret: "ff8a750e85ef45edc4432784b1a3ed552ec97c11",
+      owner: "RubyJag527",
       repo: "Gulu",
     },
   ],
