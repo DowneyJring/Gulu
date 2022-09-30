@@ -32,7 +32,7 @@ module.exports = [
       clientId: "f2182596f7e1bf853d43",
       clientSecret: "ff8a750e85ef45edc4432784b1a3ed552ec97c11",
       owner: "RubyJag527",
-      repo: "Gulu",
+      repo: "rubyjag527.github.io",
     },
   ],
   // 增强 markdown
